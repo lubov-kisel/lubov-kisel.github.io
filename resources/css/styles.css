@@ -25,7 +25,6 @@ body{
 nav {
     margin: auto 0;
     position: relative;
-    top: 200px;
     display: flex;
     clear: both;
 }
@@ -35,10 +34,6 @@ section {
     overflow: scroll;
 }
 
-header {
-    position: fixed;
-    z-index: 1;
-}
 
 
 #begin {
